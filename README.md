@@ -1,0 +1,2 @@
+# DIGITAL-THERMOMETER-USING-OP-AMP-AND-BIPOLAR-TRANSISTOR-
+This is a PSPice based simulation project.
